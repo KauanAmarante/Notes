@@ -1,2 +1,2 @@
 ## Kubernetes
-* Enable auto complete:`echo 'source <(kubectl completion bash)' >>~/.zshrc`
+* Enable auto complete: `echo 'source <(kubectl completion bash)' >>~/.zshrc`
